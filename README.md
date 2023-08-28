@@ -11,7 +11,7 @@ Este proyecto tiene como objetivo identificar todas las universidades ubicadas e
 
 Este proyecto presenta la siguiente estructura:
 
-- Directorio **notebooks**: En este directorio se encuentran los siguientes notebooks:
+- Directorio `notebooks`: En este directorio se encuentran los siguientes notebooks:
     - `evaluacion_2.ipynb`: Contiene los ejercicios resueltos de la evaluación.
     - `clase_extraccion_limpieza.ipynb`: Contiene una Clase que permite extraer los datos de la API, así como su conversión a DataFrame la limpieza de los datos según los criterios establecidos en la evaluación. 
     - `clase_carga.ipynb`: Contiene una Clase que permite crear una nueva base de datos con dos tablas, países y universidades, según los criterios establecidos en la evaluación. Además, permite la carga de los datos contenidos en un DataFrame (como el creado el `clase_extraccion_limpieza.ipynb`) a la base de datos creada.
