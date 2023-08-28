@@ -32,8 +32,8 @@ Este proyecto presenta la siguiente estructura:
 
 *Click en el nombre de cada una para acceder a su documentación.*
 
-- [`NumPy`](https://numpy.org/doc/stable/user/), para poder trabajar con los nulos..
-- [`Pandas`](https://pandas.pydata.org/docs/user_guide/index.html), para poder trabajar con DataFrames. 
-- [`Requests`](https://requests.readthedocs.io/en/latest/), para poder realizar la llamada a la API y sacar información.
-- [`MySQL Connector`](https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html), para poder conectarse a MySQL y trabajar sobre las bases de datos a través del código de Python.
-- [`Geopy`](https://geopy.readthedocs.io/en/stable/), para poder trabajar con localizaciones, coordenadas, etc.
+- [`NumPy`,](https://numpy.org/doc/stable/user/) para poder trabajar con los nulos..
+- [`Pandas`,](https://pandas.pydata.org/docs/user_guide/index.html) para poder trabajar con DataFrames. 
+- [`Requests`,](https://requests.readthedocs.io/en/latest/) para poder realizar la llamada a la API y sacar información.
+- [`MySQL Connector`,](https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html) para poder conectarse a MySQL y trabajar sobre las bases de datos a través del código de Python.
+- [`Geopy`,](https://geopy.readthedocs.io/en/stable/) para poder trabajar con localizaciones, coordenadas, etc.
